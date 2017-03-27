@@ -1,0 +1,1 @@
+c:\users\greetingcode\documents\visual studio 2015\Projects\CognitiveService\CognitiveService\CognitiveService.csproj;x86
